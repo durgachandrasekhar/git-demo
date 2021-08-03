@@ -1,0 +1,13 @@
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\bin\Debug\netcoreapp3.1\git demo.exe
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\bin\Debug\netcoreapp3.1\git demo.deps.json
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\bin\Debug\netcoreapp3.1\git demo.runtimeconfig.json
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\bin\Debug\netcoreapp3.1\git demo.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\bin\Debug\netcoreapp3.1\git demo.dll
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\bin\Debug\netcoreapp3.1\git demo.pdb
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.dll
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.pdb
+C:\Users\SHIVA KUMAR\Desktop\csharp\git demo\git demo\obj\Debug\netcoreapp3.1\git demo.genruntimeconfig.cache
